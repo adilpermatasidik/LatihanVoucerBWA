@@ -2,7 +2,7 @@ import Layout from "../../components/Layout";
 
 export default function Users(){
     return (
-        <Layout>
+        <Layout pageTitle="user Page">
             <p>Users Page</p>
         </Layout>
     )
